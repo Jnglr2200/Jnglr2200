@@ -1,79 +1,93 @@
 <div align="center">
   <h1 align="center">Hola, soy Juan Aguilar 👋</h1>
-  <h3 align="center">Backend Developer & Full Stack Enthusiast</h3>
-  <p align="center">Esmeraldas, Ecuador 🇪🇨</p>
+  <h3 align="center">Backend Developer | Junior Enthusiast</h3>
+  <p align="center">📍 Esmeraldas, Ecuador 🇪🇨</p>
+
+  <p align="center">
+    <b>Transformando ideas en código limpio y escalable.</b><br>
+    Apasionado por la arquitectura de software, la gestión de datos y el desarrollo de experiencias de usuario fluidas.
+  </p>
   
-  <a href="mailto:zharkweek123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <br>
+
+  <a href="https://www.linkedin.com/in/Juan Aguilar">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> 
+  <a href="mailto:juan.aguilar.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
-<br/>
-
-### 👨‍💻 Sobre mí
-
-Desarrollador de Software con experiencia sólida en el ecosistema **.NET (C#)**, actualmente expandiendo mis horizontes hacia el desarrollo **Full Stack Moderno** y **Móvil**. Me apasiona crear sistemas escalables, optimizar bases de datos y construir interfaces de usuario limpias.
-
-- 🔭 Actualmente estoy trabajando en: **Sistemas de gestión empresarial con .NET 8**.
-- 🌱 Estoy aprendiendo profundamente: **Arquitectura Limpia en Next.js** y **Flutter**.
-- 💼 Busco colaborar en: Proyectos que requieran integración entre **Backend robusto** y **Frontend moderno**.
+<br>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Herramientas
 
-<div align="center">
+He trabajado con una amplia variedad de tecnologías, enfocándome en el ecosistema Microsoft y JavaScript moderno.
 
-**Lenguajes**
-<br>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+#### 💻 Lenguajes
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Frontend & Mobile**
-<br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+#### 🎨 Frontend & Mobile Frameworks
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Database**
-<br>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+#### ⚙️ Backend, Data & Runtime
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-**Tools**
-<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-</div>
+#### 🧪 Data Science & Tools
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
-### 🚀 Proyectos Destacados
+### 📌 Proyectos Destacados (Work in Progress 🚧)
 
 | Proyecto | Stack | Descripción |
 | :--- | :--- | :--- |
-| **Movie Discovery App** | `Next.js` `MongoDB` `Tailwind` | Aplicación web para explorar películas populares, con sistema de favoritos personalizado y diseño responsivo. (En desarrollo) |
-| **Personal Finance** | `Flutter` `Python` `SQL` | App móvil para gestión de gastos personales. Backend ligero en Python y persistencia en SQL. (En desarrollo) |
-| **Sistema de Monitoreo** | `C#` `.NET` `SQL` | Backend empresarial para gestión de reservas y viajes, optimizando procesos financieros y operativos. (Experiencia Laboral) |
+| **Movie Discovery App** | `Next.js` `MongoDB` `Tailwind` | Explorador de películas con autenticación y gestión de favoritos. Consumo de API externa y diseño moderno. |
+| **Personal Finance** | `Flutter` `Python` `SQL` | Aplicación móvil para el control de gastos personales. Backend desarrollado en Python con análisis de datos. |
+| **Ecosistema Logístico** | `Node.js` `Socket.io` | (Idea de proyecto futuro) Sistema de rastreo en tiempo real para gestión de paquetería. |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jnglr2200&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnglr2200&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jnglr2200&theme=tokyonight&hide_border=true" alt="streak graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=jnglr2200&icon=5&color=12" />
+  </a>
 </div>
