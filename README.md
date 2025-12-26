@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hola, soy [Juan Aguilar
 
-<!--
-**Jnglr2200/Jnglr2200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador/a [Frontend / Backend / Fullstack]  
+📍 [Ecuador / Esmerladas]  
+🚀 Apasionado por [tecnologías / problemas que te gusta resolver]
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
+- Lenguajes: JavaScript, Python, etc
+- Frontend: React, HTML, CSS
+- Backend: Node.js, Django
+- Bases de datos: PostgreSQL, MongoDB
+- Otros: Git, Docker, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos Destacados
+- 🔗 [Proyecto 1](link) – breve descripción
+- 🔗 [Proyecto 2](link)
+
+## 📈 Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true)
+
+## 📫 Contacto
+- LinkedIn: …
+- Email: …
